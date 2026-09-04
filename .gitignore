@@ -1,0 +1,15 @@
+# binarios de release nao ficam no repositorio, ficam em Releases
+.release/
+*.exe
+*.tar.gz
+*.zip
+
+# build
+build/
+build-*/
+dist/
+
+# sistema
+.DS_Store
+Thumbs.db
+*~

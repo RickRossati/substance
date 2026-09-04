@@ -1,0 +1,81 @@
+SUBSTANCE // HYBRID BASS ENGINE
+Copyright (C) 2026 Ricardo Rossati (Mister RickRoss) / Ross Audio
+
+Software proprietario. Todos os direitos reservados.
+Proprietary software. All rights reserved.
+
+Estes termos acompanham os termos publicados em
+https://misterrickross.com/substance/license.html
+e em caso de divergencia prevalece a versao publicada no site.
+
+-----------------------------------------------------------------------
+PORTUGUES
+-----------------------------------------------------------------------
+
+O QUE E PERMITIDO
+
+  Baixar, instalar e usar o SUBSTANCE no modo Free, sem prazo.
+  Usar o trial Pro de 15 dias, sem cartao, uma vez por maquina.
+  Com licenca Pro: uso musical, de estudio, educacional e comercial nas
+  suas proprias producoes, sem royalty sobre a musica que voce fizer.
+  Uma licenca Pro fica ativa em ate dois computadores seus.
+
+O QUE NAO E PERMITIDO
+
+  Compartilhar, revender, alugar, sublicenciar ou publicar a chave de licenca.
+  Remover mecanismos de ativacao ou tentar burlar limitacoes do software.
+  Distribuir copias do plugin, do instalador ou de seus recursos como se
+  fossem produto proprio.
+  Fazer engenharia reversa do binario, salvo onde a lei aplicavel garantir
+  esse direito de forma que nao possa ser afastada por contrato.
+
+LICENCA PRO
+
+  Vitalicia, nao e assinatura. Inclui as atualizacoes da serie 1.x.
+  Novos produtos, grandes versoes futuras ou formatos ainda nao lancados
+  podem ter regras proprias.
+
+GARANTIA
+
+  O software e fornecido "como esta", sem garantia de qualquer natureza,
+  expressa ou implicita. Nada nestes termos reduz direitos obrigatorios do
+  consumidor aplicaveis a sua compra.
+
+-----------------------------------------------------------------------
+ENGLISH
+-----------------------------------------------------------------------
+
+PERMITTED
+
+  Download, install and use SUBSTANCE in Free mode, with no time limit.
+  Use the 15 day Pro trial, no card required, once per machine.
+  With a Pro license: musical, studio, educational and commercial use in
+  your own productions, with no royalty on the music you make.
+  One Pro license stays active on up to two of your computers.
+
+NOT PERMITTED
+
+  Sharing, reselling, renting, sublicensing or publishing the license key.
+  Removing activation mechanisms or circumventing software limitations.
+  Distributing copies of the plugin, the installer or its resources as
+  your own product.
+  Reverse engineering the binary, except where applicable law grants that
+  right in a way that cannot be waived by contract.
+
+PRO LICENSE
+
+  Lifetime, not a subscription. Includes 1.x series updates. New products,
+  future major versions or formats not yet released may have their own terms.
+
+WARRANTY
+
+  The software is provided "as is", without warranty of any kind, express or
+  implied. Nothing in these terms reduces mandatory consumer rights that
+  apply to your purchase.
+
+-----------------------------------------------------------------------
+TERCEIROS / THIRD PARTY
+-----------------------------------------------------------------------
+
+  JUCE 8, licenciado pela Raw Material Software Limited.
+  https://juce.com
