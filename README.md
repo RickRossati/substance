@@ -79,8 +79,11 @@ audio keeps working in Free.
 - **Free** keeps the core sound, LIVE processing, tooltips and factory snapshots
 - **Pro** unlocks HYBRID, Advanced and DNA, user presets and the complete module set
 
-Pro is **R$ 297**, a lifetime license, not a subscription, with 1.x updates
-included. One license activates on up to two computers.
+Pro is **US$ 59** by card, or **R$ 297** in Brazil by Pix or card. A lifetime
+license, not a subscription, with 1.x updates included. One license
+activates on up to two computers. Buy it at
+[misterrickross.com/substance/en/checkout](https://misterrickross.com/substance/en/checkout/);
+the key arrives by e-mail right after payment.
 
 ## Install
 
